@@ -1,0 +1,31 @@
+function : 
+ def fname(args):
+
+modules : A 
+ predefined set of methods
+ 1.Math
+ 2.calendar
+ 3.random
+
+- List 
+   -  can contain a collection of the same or different types of values.
+
+listA = [1,1,2,3,4]
+
+listB = [1, True, "Shreepad", 22.4]
+
+Range() - iterations
+
+range(start, end, step)
+
+to implement the iterations we have for-in
+eg : for char in word
+
+len : to get the length of the sequence, we can use len .
+
+while loop
+
+object oriented programmin, calles having method and data attribute to operate the methods on them
+
+class class1
+     def hello(self, whom)
